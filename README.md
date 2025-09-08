@@ -1,7 +1,3 @@
-
-## Live Demo
-https://tylerfields56.github.io/Gif-Finder/
-
 # GifFinder 🎞️
 
 GifFinder is a simple web app that lets you search and discover GIFs using the [GIPHY API](https://developers.giphy.com/).  
