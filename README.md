@@ -29,8 +29,8 @@ Type in a keyword (like *cats*, *coding*, or *pizza*) and browse results in a cl
 
 ## 📄 Documentation
 
-- [📄 Wireframes (PDF)](GifFinder_Wireframes.pdf)  
-- [📄 User Stories (PDF)](GifFinder_UserStories.pdf)
+- [📄 Wireframes & User-stories (PDF)](GifFinder_Wireframe-and-user-stories.pdf)  
+
 
 ---
 
