@@ -27,20 +27,7 @@ Type in a keyword (like *cats*, *coding*, or *pizza*) and browse results in a cl
 
 ---
 
-## 📷 Screenshots
-*(Add your screenshots here — replace `screenshot.png` with real images)*
-
-Search View:  
-![Search Screenshot](screenshot-search.png)
-
-Results View:  
-![Results Screenshot](screenshot-results.png)
-
----
-
 ## 📄 Documentation
-- [Project Documentation PDF](GifFinder_Project_Documentation.pdf)  
-  (includes hand-drawn wireframes and user stories)
 
 - [Full Submission PDF](GifFinder_Full_Submission.pdf)  
   (documentation + deliverables overview)
