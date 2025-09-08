@@ -31,12 +31,6 @@ Type in a keyword (like *cats*, *coding*, or *pizza*) and browse results in a cl
 
 - [📄 Wireframes (PDF)](GifFinder_Wireframes.pdf)  
 - [📄 User Stories (PDF)](GifFinder_UserStories.pdf)
-  
----
-
-## 🖼️ Wireframes (Preview)
-
-![Wireframe Sketch](wireframe-sketch.png)
 
 ---
 
